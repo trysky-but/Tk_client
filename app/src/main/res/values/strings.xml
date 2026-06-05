@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TK Client</string>
+    <string name="status_ready">PRONTO PARA INJETAR</string>
+    <string name="btn_inject">INJETAR NO MINECRAFT</string>
+    <string name="overlay_title">TK Client</string>
+    
+    <!-- Módulos -->
+    <string name="module_zoom">Modo Zoom</string>
+    <string name="module_nvision">Nvision (Fullbright)</string>
+    <string name="module_kill_aura">Kill Aura</string>
+    <string name="module_player_esp">Player ESP</string>
+    <string name="module_player_cord">Player Cord</string>
+    <string name="module_bridge">Bridge</string>
+    <string name="module_auto_totem">Auto Totem</string>
+    <string name="module_cpvp">CPVP (Crystal PVP)</string>
+    <string name="module_aimbot">Aimbot</string>
+</resources>

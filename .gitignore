@@ -1,0 +1,41 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+*.user
+*.classpath
+*.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/
+
+# Android Studio
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.ap_
+*.aab
+
+# Signing files
+.signing/
+*.jks
+*.keystore
+
+# System files
+.DS_Store
+Thumbs.db

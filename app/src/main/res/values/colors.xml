@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_graphite">#1F2124</color>
+    <color name="dark_blue_black">#0F1012</color>
+    <color name="neon_green">#00FF88</color>
+    <color name="panel_dark">#CC222222</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_black">#000000</color>
+    <color name="orange_esp">#FF9800</color>
+</resources>
